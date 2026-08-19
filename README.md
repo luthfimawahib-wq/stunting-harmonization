@@ -7,7 +7,7 @@ foundation for three downstream studies in a doctoral dissertation on
 **Applied Explainable AI for Health Risk Prediction**, with childhood stunting in
 Riau Province, Indonesia, as the validation domain.
 
-> **DOI:** `10.5281/zenodo.XXXXXXX`
+> **DOI:** `10.5281/zenodo.22015038`
 ## Data availability
 
 The microdata are governed by the Ministry of Health of the Republic of Indonesia
