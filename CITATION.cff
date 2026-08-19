@@ -12,7 +12,7 @@ date-released: "2026-06-27"
 license: MIT
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.22015038.
+    value: 10.5281/zenodo.22015038
 url: "https://github.com/luthfimawahib-wq/stunting-harmonization"
 repository-code: "https://github.com/luthfimawahib-wq/stunting-harmonization"
 keywords:
