@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Restricted data: NEVER commit
+*.parquet
+*.sav
+*.dta
+*.csv
+
+# Raw microdata (ignored except its README)
+raw_data/*
+!raw_data/README.md
+
+# Pipeline outputs are ignored, EXCEPT the two aggregate, non-personal artifacts
+# the pipeline writes there (encoding schema + availability matrix). Downstream repos
+# (and the synthetic-data generator need them, so they are committed here.
+# The restricted master Parquet stays ignored.
+output_harmonisasi/*
+!output_harmonisasi/.gitkeep
+!output_harmonisasi/skema_encoding.json
+!output_harmonisasi/matriks_ketersediaan.csv

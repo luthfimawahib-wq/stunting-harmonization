@@ -1,0 +1,12 @@
+# Pin versions from the environment that produced the master dataset. The MICE
+# stack (miceforest, lightgbm) MUST match the versions used to generate
+# stunting_harmonized.parquet so imputation is reproducible.
+pandas
+numpy
+pyarrow
+pyreadstat
+miceforest==6.0.5
+lightgbm==4.6.0
+pygrowup
+scipy
+matplotlib

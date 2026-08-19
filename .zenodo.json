@@ -1,0 +1,28 @@
+{
+  "upload_type": "software",
+  "title": "Stunting Harmonization Pipeline: reproducible nine-stage harmonization of Indonesian nutrition survey microdata (SSGI 2022, SSGI 2024, SKI 2023)",
+  "description": "<p>A reproducible, nine-stage harmonization pipeline that transforms three Indonesian national nutrition survey microdata sources (SSGI 2022, SSGI 2024, SKI 2023) into a single anonymized, analysis-ready master dataset. It performs anonymization, variable mapping through a canonical dictionary, anthropometry cleaning, cohort assignment (baduta &lt;24 months vs balita_tua 24-59 months), WHO 2006 LMS z-scores and stunting definition, composite features, per-source categorical value harmonization, MICE imputation with missing indicators, and validation.</p><p>The pipeline is the shared foundation for three downstream studies on Applied Explainable AI for Health Risk Prediction, with childhood stunting in Riau Province, Indonesia, as the validation domain. The microdata are governed by the Ministry of Health of the Republic of Indonesia and are not redistributed; the master Parquet is a derivative and is never committed. A synthetic test-data generator is included so the downstream pipeline can be run and verified without restricted data.</p>",
+  "creators": [
+    {
+      "name": "Fimawahib, Luth",
+      "affiliation": "Universitas Negeri Yogyakarta",
+      "orcid": "0000-0002-4271-7347"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "keywords": [
+    "stunting",
+    "data harmonization",
+    "machine learning",
+    "explainable AI",
+    "MICE imputation",
+    "WHO child growth standards",
+    "reproducibility",
+    "Indonesia",
+    "SSGI",
+    "SKI"
+  ]
+}
