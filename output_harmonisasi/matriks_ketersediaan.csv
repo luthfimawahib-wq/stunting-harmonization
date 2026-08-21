@@ -1,0 +1,120 @@
+variabel,kategori,ssgi22_baduta,ssgi22_balita_tua,ssgi24_baduta,ssgi24_balita_tua,ski23_baduta,ski23_balita_tua,n_sumber_baduta,n_sumber_balita_tua,lintas_sumber_baduta
+area_type,IDENTITAS & WILAYAH,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+sex_child,DEMOGRAFI BALITA,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+age_child_months,DEMOGRAFI BALITA,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+weight_child_kg,ANTROPOMETRI BALITA,1.0,1.0,0.999,0.999,0.994,0.993,3,3,kuat
+height_child_cm,ANTROPOMETRI BALITA,0.999,0.98,0.995,0.976,0.982,0.961,3,3,kuat
+lila_child_cm,ANTROPOMETRI BALITA,0.0,0.0,0.894,0.972,0.0,0.0,1,1,lemah
+weight_gain_trend,ANTROPOMETRI BALITA,0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
+birth_weight_g,DATA KELAHIRAN,0.911,0.893,0.944,0.925,0.999,0.998,3,3,kuat
+birth_length_cm,DATA KELAHIRAN,0.759,0.693,0.859,0.817,0.803,0.736,3,3,kuat
+gestational_age_wk,DATA KELAHIRAN,0.955,0.952,0.953,0.937,0.959,0.936,3,3,kuat
+delivery_place,DATA KELAHIRAN,0.999,0.999,0.0,0.0,0.859,0.821,2,2,sebagian
+delivery_assistant,DATA KELAHIRAN,1.0,1.0,0.0,0.0,1.0,1.0,2,2,sebagian
+delivery_method,DATA KELAHIRAN,0.0,0.0,0.0,0.0,0.859,0.821,1,1,lemah
+head_circ_birth_cm,DATA KELAHIRAN,0.343,0.251,0.0,0.0,0.436,0.311,0,0,tidak
+edu_mother,DEMOGRAFI & STATUS IBU,0.989,0.983,0.989,0.983,0.924,0.907,3,3,kuat
+occupation_mother,DEMOGRAFI & STATUS IBU,0.989,0.983,0.989,0.983,0.924,0.907,3,3,kuat
+age_mother_yr,DEMOGRAFI & STATUS IBU,0.989,0.983,0.989,0.983,0.924,0.907,3,3,kuat
+marital_status,DEMOGRAFI & STATUS IBU,1.0,1.0,0.989,0.983,0.924,0.907,3,3,kuat
+gravida,DEMOGRAFI & STATUS IBU,0.0,0.0,0.999,0.998,0.92,0.902,2,2,sebagian
+height_mother_cm,ANTROPOMETRI IBU,0.628,0.0,0.907,0.881,0.0,0.0,2,1,sebagian
+weight_mother_kg,ANTROPOMETRI IBU,0.766,0.0,0.907,0.88,0.0,0.0,2,1,sebagian
+lila_mother_cm,ANTROPOMETRI IBU,0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
+anc_received,ANC & KEHAMILAN,1.0,0.0,0.0,0.0,0.859,0.821,2,1,sebagian
+anc_freq_doc_t1,ANC & KEHAMILAN,0.39,0.0,0.69,0.641,0.477,0.423,1,1,lemah
+anc_freq_doc_t2,ANC & KEHAMILAN,0.39,0.0,0.69,0.641,0.477,0.423,1,1,lemah
+anc_freq_doc_t3,ANC & KEHAMILAN,0.39,0.0,0.69,0.641,0.476,0.422,1,1,lemah
+anc_freq_mid_t1,ANC & KEHAMILAN,0.793,0.0,0.82,0.817,0.735,0.694,3,2,kuat
+anc_freq_mid_t2,ANC & KEHAMILAN,0.793,0.0,0.82,0.817,0.734,0.693,3,2,kuat
+anc_freq_mid_t3,ANC & KEHAMILAN,0.793,0.0,0.82,0.817,0.733,0.692,3,2,kuat
+anc_place,ANC & KEHAMILAN,0.927,0.0,0.949,0.935,0.828,0.785,3,2,kuat
+anc_lila_measured,ANC & KEHAMILAN,0.927,0.0,0.0,0.0,0.828,0.785,2,1,sebagian
+anc_hb_tested,ANC & KEHAMILAN,0.927,0.0,0.0,0.0,0.828,0.785,2,1,sebagian
+pregnancy_class,ANC & KEHAMILAN,0.0,0.0,1.0,1.0,0.828,0.785,2,2,sebagian
+kek_flag,KOMPLIKASI KEHAMILAN,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+anemia_preg_flag,KOMPLIKASI KEHAMILAN,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+hypertension_preg,KOMPLIKASI KEHAMILAN,0.0,0.0,0.0,0.0,1.0,1.0,1,1,lemah
+diabetes_preg,KOMPLIKASI KEHAMILAN,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+ttd_received,SUPLEMENTASI IBU HAMIL,0.972,0.0,1.0,1.0,0.859,0.821,3,2,kuat
+ttd_count,SUPLEMENTASI IBU HAMIL,0.74,0.0,0.842,0.806,0.739,0.691,3,2,kuat
+pmt_received,SUPLEMENTASI IBU HAMIL,0.972,0.0,0.0,0.0,0.859,0.821,2,1,sebagian
+mms_received,SUPLEMENTASI IBU HAMIL,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+imd_skin_contact,PERSALINAN & IMD,1.0,0.0,0.0,0.0,1.0,0.0,2,0,sebagian
+imd_duration,PERSALINAN & IMD,0.57,0.0,0.0,0.0,0.609,0.0,2,0,sebagian
+colostrum_action,ASI & PEMBERIAN MAKAN,1.0,0.0,0.0,0.0,1.0,0.0,2,0,sebagian
+breastfed_ever,ASI & PEMBERIAN MAKAN,1.0,0.0,0.0,0.0,1.0,0.0,2,0,sebagian
+breastfed_current,ASI & PEMBERIAN MAKAN,0.958,0.0,0.209,0.0,0.949,0.0,2,0,sebagian
+weaning_age_months,ASI & PEMBERIAN MAKAN,0.209,0.0,0.0,0.0,0.231,0.0,0,0,tidak
+prelacteal_feed,ASI & PEMBERIAN MAKAN,0.97,0.0,0.0,0.0,1.0,0.0,2,0,sebagian
+mpasi_age_months,ASI & PEMBERIAN MAKAN,0.988,0.0,0.0,0.0,0.0,0.0,1,0,lemah
+food_water,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+food_formula,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+food_cereal,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+food_vit_a_veg,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+food_green_veg,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+food_vit_a_fruit,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+food_organ_meat,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+food_meat,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.0,0.0,0.778,0.0,2,0,sebagian
+food_egg,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+food_fish,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+food_legume,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.164,0.0,0.778,0.0,2,0,sebagian
+meal_frequency,KONSUMSI PANGAN 24 JAM,0.784,0.0,0.0,0.0,0.56,0.0,2,0,sebagian
+imm_hepb0,IMUNISASI,1.0,1.0,1.0,1.0,0.898,0.868,3,3,kuat
+imm_bcg,IMUNISASI,1.0,1.0,1.0,1.0,0.898,0.868,3,3,kuat
+imm_dpt1,IMUNISASI,1.0,1.0,1.0,1.0,0.898,0.868,3,3,kuat
+imm_dpt2,IMUNISASI,1.0,1.0,1.0,1.0,0.898,0.868,3,3,kuat
+imm_dpt3,IMUNISASI,1.0,1.0,1.0,1.0,0.898,0.868,3,3,kuat
+imm_dpt_boost,IMUNISASI,1.0,1.0,1.0,1.0,0.898,0.868,3,3,kuat
+imm_pcv,IMUNISASI,0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
+imm_polio,IMUNISASI,0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
+imm_measles_9mo,IMUNISASI,1.0,1.0,1.0,1.0,0.898,0.868,3,3,kuat
+imm_measles_boost,IMUNISASI,1.0,1.0,1.0,1.0,0.898,0.868,3,3,kuat
+imm_vit_a_count,IMUNISASI,1.0,1.0,0.0,0.0,1.0,1.0,2,2,sebagian
+weigh_freq_12mo,PEMANTAUAN TUMBUH KEMBANG,0.892,0.772,0.0,0.0,0.807,0.657,2,2,sebagian
+height_measure_12mo,PEMANTAUAN TUMBUH KEMBANG,1.0,1.0,0.0,0.0,1.0,0.998,2,2,sebagian
+kpsp_sdidtk,PEMANTAUAN TUMBUH KEMBANG,0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
+kia_book,PEMANTAUAN TUMBUH KEMBANG,1.0,1.0,1.0,1.0,1.0,0.998,3,3,kuat
+ispa_1month,PENYAKIT BALITA,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+diarrhea_1month,PENYAKIT BALITA,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+pneumonia_1year,PENYAKIT BALITA,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+tb_1year,PENYAKIT BALITA,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+worm_1year,PENYAKIT BALITA,1.0,1.0,0.0,0.0,0.0,0.0,1,1,lemah
+jkn_owned,JAMINAN KESEHATAN,1.0,1.0,1.0,1.0,0.99,0.989,3,3,kuat
+jkn_used,JAMINAN KESEHATAN,0.381,0.506,0.514,0.578,0.0,0.0,1,2,lemah
+water_source,SANITASI & AIR BERSIH,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+sanitation_own,SANITASI & AIR BERSIH,1.0,1.0,1.0,1.0,0.0,0.0,2,2,sebagian
+toilet_type,SANITASI & AIR BERSIH,1.0,1.0,0.981,0.979,0.0,0.0,2,2,sebagian
+feces_disposal,SANITASI & AIR BERSIH,1.0,1.0,0.981,0.979,0.0,0.0,2,2,sebagian
+water_fetch_time,SANITASI & AIR BERSIH,0.0,0.0,0.628,0.622,0.0,0.0,1,1,lemah
+building_ownership,PERUMAHAN,0.0,0.0,1.0,1.0,1.0,1.0,2,2,sebagian
+floor_area_m2,PERUMAHAN,0.0,0.0,0.985,0.985,0.984,0.984,2,2,sebagian
+cooking_fuel,PERUMAHAN,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+lighting_source,PERUMAHAN,0.0,0.0,1.0,1.0,1.0,1.0,2,2,sebagian
+asset_gas,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_washing_machine,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_fridge,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_phone,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_computer,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_tv,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_motorcycle,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_car,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_gold,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_land,ASET (PROXY SOSEK),1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+asset_livestock,ASET (PROXY SOSEK),0.0,0.0,1.0,1.0,1.0,1.0,2,2,sebagian
+bansos_kks,BANTUAN SOSIAL,1.0,1.0,1.0,1.0,1.0,1.0,3,3,kuat
+bansos_pkh,BANTUAN SOSIAL,0.192,0.21,1.0,1.0,1.0,1.0,2,2,sebagian
+bansos_bpnt,BANTUAN SOSIAL,0.192,0.21,1.0,1.0,1.0,1.0,2,2,sebagian
+bansos_blt,BANTUAN SOSIAL,0.192,0.21,1.0,1.0,1.0,1.0,2,2,sebagian
+know_stunting,PENGETAHUAN STUNTING,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+know_info_source,PENGETAHUAN STUNTING,0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
+percep_hereditary,PENGETAHUAN STUNTING,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+percep_asi,PENGETAHUAN STUNTING,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+percep_ttd,PENGETAHUAN STUNTING,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+percep_obese_misc,PENGETAHUAN STUNTING,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+percep_cognition,PENGETAHUAN STUNTING,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+percep_environment,PENGETAHUAN STUNTING,0.0,0.0,1.0,1.0,0.0,0.0,1,1,lemah
+hb_level_gdl,BIOMEDIS (SKI 2023),0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
+retinol_level,BIOMEDIS (SKI 2023),0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
+malaria_rdt,BIOMEDIS (SKI 2023),0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
+immunity_serology,BIOMEDIS (SKI 2023),0.0,0.0,0.0,0.0,0.0,0.0,0,0,tidak
